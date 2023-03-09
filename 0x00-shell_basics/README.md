@@ -4,3 +4,6 @@ script that changes the working directory to the user’s home directory
 Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display current directory contents
+script that creates a directory
+Move the file
+script that lists all files
